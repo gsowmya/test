@@ -16,6 +16,8 @@ Ex: ../../../kpflagship/KPFlagshipMain.
 Ex:
 Set ndk.dir path in local.properties file.
 
+![ScreenShot](/Users/sowmyavuddaraju/Desktop/path.png)
+
 
 Using Gradle Command Line:
 

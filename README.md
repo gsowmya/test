@@ -34,6 +34,7 @@ References:
 
 http://stackoverflow.com/questions/21109019/android-gradle-replace-package-name-for-a-value-in-manifest
 https://github.com/mikepenz/MaterialDrawer/issues/73
+
 http://developer.android.com/guide/topics/ui/themes.html
 http://stackoverflow.com/questions/19508649/android-studio-says-cannot-resolve-symbol-but-project-compiles
 

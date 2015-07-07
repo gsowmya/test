@@ -17,7 +17,7 @@ Ex:
 Set ndk.dir path in local.properties file.
 
 ![ScreenShot](/Users/sowmyavuddaraju/Desktop/path.png)
-![Alt text](/Users/sowmyavuddaraju/Desktop/path.png?raw=true "Optional Title")
+![Alt text](/Users/sowmyavuddaraju/Desktop/path.jpg?raw=true "Optional Title")
 
 Using Gradle Command Line:
 

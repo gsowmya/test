@@ -1,9 +1,9 @@
 ***** Please create a separate workspace for android studio.DO NOT use existing one.
 
 Requirements:
-
 1.Download Android Studio:
 https://developer.android.com/sdk/index.html
+
 2.Download NDK:
 https://developer.android.com/ndk/downloads/index.html
 

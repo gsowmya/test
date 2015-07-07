@@ -13,8 +13,10 @@ Android Studio Steps:
 Provide the path till KPFlagshipMain and click open
 Ex: ../../../kpflagship/KPFlagshipMain.
 4.Set GRADLE_HOME 
-Ex:
-Set ndk.dir path in local.properties file.
+Note: Gradle will part of Android Studio Package Contents.
+Ex:/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1
+5.Set ndk.dir path in local.properties file.
+Ex:/Users/sowmyavuddaraju/Downloads/NDK/android-ndk-r10d
 
 ![ScreenShot](/Users/sowmyavuddaraju/Desktop/path.png)
 ![Alt text](/Users/sowmyavuddaraju/Desktop/path.jpg?raw=true "Optional Title")
